@@ -1,0 +1,1 @@
+ C:\\Users\\makan\\OneDrive\\Desktop\\Grad\ Projects\\Skin\ Detecor\\Derma\ App\\Doctor\\.dart_tool\\flutter_build\\200ac2d1faea6a6bd9ba21e998b03b68\\native_assets.yaml: 

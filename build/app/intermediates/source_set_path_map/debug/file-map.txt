@@ -1,0 +1,41 @@
+doctorapp.seifoo.doctor.app-jetified-profileinstaller-1.3.0-0 C:\Users\makan\.gradle\caches\transforms-3\0a09fbd8d569e295ad58eaf34d3f2971\transformed\jetified-profileinstaller-1.3.0\res
+doctorapp.seifoo.doctor.app-jetified-annotation-experimental-1.3.0-1 C:\Users\makan\.gradle\caches\transforms-3\0af91d03e79b7a06c0ef8ff4933fcf7e\transformed\jetified-annotation-experimental-1.3.0\res
+doctorapp.seifoo.doctor.app-jetified-play-services-auth-20.7.0-2 C:\Users\makan\.gradle\caches\transforms-3\0bbaf505e0a937a53bf30356fd0fe831\transformed\jetified-play-services-auth-20.7.0\res
+doctorapp.seifoo.doctor.app-lifecycle-livedata-core-2.6.1-3 C:\Users\makan\.gradle\caches\transforms-3\264e9a68499ea381fbb9a2ac4fe9bd2e\transformed\lifecycle-livedata-core-2.6.1\res
+doctorapp.seifoo.doctor.app-jetified-play-services-basement-18.2.0-4 C:\Users\makan\.gradle\caches\transforms-3\39e7ec4009ccd501e692392e8bb438ad\transformed\jetified-play-services-basement-18.2.0\res
+doctorapp.seifoo.doctor.app-lifecycle-viewmodel-2.6.1-5 C:\Users\makan\.gradle\caches\transforms-3\3aade862b67f4774985d645f09ca4250\transformed\lifecycle-viewmodel-2.6.1\res
+doctorapp.seifoo.doctor.app-jetified-firebase-common-20.4.2-6 C:\Users\makan\.gradle\caches\transforms-3\6b151cbdd15adaf1523dfa461d715955\transformed\jetified-firebase-common-20.4.2\res
+doctorapp.seifoo.doctor.app-jetified-window-java-1.0.0-beta04-7 C:\Users\makan\.gradle\caches\transforms-3\6dce6f1ed4967c3d40c49961d98520a7\transformed\jetified-window-java-1.0.0-beta04\res
+doctorapp.seifoo.doctor.app-browser-1.4.0-8 C:\Users\makan\.gradle\caches\transforms-3\7e19ae431fe919f5032815873e4beba9\transformed\browser-1.4.0\res
+doctorapp.seifoo.doctor.app-jetified-activity-1.7.2-9 C:\Users\makan\.gradle\caches\transforms-3\83207ccfc2e4d2fda9727d5225234698\transformed\jetified-activity-1.7.2\res
+doctorapp.seifoo.doctor.app-core-runtime-2.2.0-10 C:\Users\makan\.gradle\caches\transforms-3\86fed2ac410560e7e3c869d708240a44\transformed\core-runtime-2.2.0\res
+doctorapp.seifoo.doctor.app-lifecycle-runtime-2.6.1-11 C:\Users\makan\.gradle\caches\transforms-3\91c1e26ee0951232b9d36353cf82c32a\transformed\lifecycle-runtime-2.6.1\res
+doctorapp.seifoo.doctor.app-jetified-core-ktx-1.10.1-12 C:\Users\makan\.gradle\caches\transforms-3\9ae8bcd14081e32c1c6f809ca2848cf2\transformed\jetified-core-ktx-1.10.1\res
+doctorapp.seifoo.doctor.app-jetified-ads-adservices-1.0.0-beta05-13 C:\Users\makan\.gradle\caches\transforms-3\a5dd1af0fb519f8fe92dd22132c04ea7\transformed\jetified-ads-adservices-1.0.0-beta05\res
+doctorapp.seifoo.doctor.app-jetified-startup-runtime-1.1.1-14 C:\Users\makan\.gradle\caches\transforms-3\a6b01198694d402546e7ebf49fc4e793\transformed\jetified-startup-runtime-1.1.1\res
+doctorapp.seifoo.doctor.app-jetified-lifecycle-viewmodel-savedstate-2.6.1-15 C:\Users\makan\.gradle\caches\transforms-3\c5df22cc64f4db695f891c9abc505d8b\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\res
+doctorapp.seifoo.doctor.app-jetified-play-services-base-18.0.1-16 C:\Users\makan\.gradle\caches\transforms-3\d09cd9750917cae9e19e5f601c291bd0\transformed\jetified-play-services-base-18.0.1\res
+doctorapp.seifoo.doctor.app-lifecycle-livedata-2.6.1-17 C:\Users\makan\.gradle\caches\transforms-3\d8678bad215275ab9406e1069534c4b9\transformed\lifecycle-livedata-2.6.1\res
+doctorapp.seifoo.doctor.app-jetified-ads-adservices-java-1.0.0-beta05-18 C:\Users\makan\.gradle\caches\transforms-3\da81a96913c11cd4b0530935cde8a169\transformed\jetified-ads-adservices-java-1.0.0-beta05\res
+doctorapp.seifoo.doctor.app-jetified-play-services-measurement-api-21.5.0-19 C:\Users\makan\.gradle\caches\transforms-3\db97e5588342dc421d6636ccd3ee7144\transformed\jetified-play-services-measurement-api-21.5.0\res
+doctorapp.seifoo.doctor.app-jetified-window-1.0.0-beta04-20 C:\Users\makan\.gradle\caches\transforms-3\dc60ae5d37d0acf19b57ae5aaa433571\transformed\jetified-window-1.0.0-beta04\res
+doctorapp.seifoo.doctor.app-jetified-savedstate-1.2.1-21 C:\Users\makan\.gradle\caches\transforms-3\e8bd0666e56fefd19a397aab9ff51dfc\transformed\jetified-savedstate-1.2.1\res
+doctorapp.seifoo.doctor.app-core-1.10.1-22 C:\Users\makan\.gradle\caches\transforms-3\f8bf6593dffd6f9a22bdd344fc69c830\transformed\core-1.10.1\res
+doctorapp.seifoo.doctor.app-debug-23 C:\Users\makan\OneDrive\Desktop\Grad Projects\Skin Detecor\Derma App\Doctor\android\app\src\debug\res
+doctorapp.seifoo.doctor.app-main-24 C:\Users\makan\OneDrive\Desktop\Grad Projects\Skin Detecor\Derma App\Doctor\android\app\src\main\res
+doctorapp.seifoo.doctor.app-RES-25 C:\Users\makan\OneDrive\Desktop\Grad Projects\Skin Detecor\Derma App\Doctor\build\app\RES\processDebugGoogleServices
+doctorapp.seifoo.doctor.app-pngs-26 C:\Users\makan\OneDrive\Desktop\Grad Projects\Skin Detecor\Derma App\Doctor\build\app\generated\res\pngs\debug
+doctorapp.seifoo.doctor.app-resValues-27 C:\Users\makan\OneDrive\Desktop\Grad Projects\Skin Detecor\Derma App\Doctor\build\app\generated\res\resValues\debug
+doctorapp.seifoo.doctor.app-rs-28 C:\Users\makan\OneDrive\Desktop\Grad Projects\Skin Detecor\Derma App\Doctor\build\app\generated\res\rs\debug
+doctorapp.seifoo.doctor.app-mergeDebugResources-29 C:\Users\makan\OneDrive\Desktop\Grad Projects\Skin Detecor\Derma App\Doctor\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+doctorapp.seifoo.doctor.app-mergeDebugResources-30 C:\Users\makan\OneDrive\Desktop\Grad Projects\Skin Detecor\Derma App\Doctor\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+doctorapp.seifoo.doctor.app-merged_res-31 C:\Users\makan\OneDrive\Desktop\Grad Projects\Skin Detecor\Derma App\Doctor\build\app\intermediates\merged_res\debug
+doctorapp.seifoo.doctor.app-packaged_res-32 C:\Users\makan\OneDrive\Desktop\Grad Projects\Skin Detecor\Derma App\Doctor\build\cloud_firestore\intermediates\packaged_res\debug
+doctorapp.seifoo.doctor.app-packaged_res-33 C:\Users\makan\OneDrive\Desktop\Grad Projects\Skin Detecor\Derma App\Doctor\build\firebase_auth\intermediates\packaged_res\debug
+doctorapp.seifoo.doctor.app-packaged_res-34 C:\Users\makan\OneDrive\Desktop\Grad Projects\Skin Detecor\Derma App\Doctor\build\firebase_core\intermediates\packaged_res\debug
+doctorapp.seifoo.doctor.app-packaged_res-35 C:\Users\makan\OneDrive\Desktop\Grad Projects\Skin Detecor\Derma App\Doctor\build\firebase_storage\intermediates\packaged_res\debug
+doctorapp.seifoo.doctor.app-packaged_res-36 C:\Users\makan\OneDrive\Desktop\Grad Projects\Skin Detecor\Derma App\Doctor\build\flutter_native_splash\intermediates\packaged_res\debug
+doctorapp.seifoo.doctor.app-packaged_res-37 C:\Users\makan\OneDrive\Desktop\Grad Projects\Skin Detecor\Derma App\Doctor\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\debug
+doctorapp.seifoo.doctor.app-packaged_res-38 C:\Users\makan\OneDrive\Desktop\Grad Projects\Skin Detecor\Derma App\Doctor\build\google_sign_in_android\intermediates\packaged_res\debug
+doctorapp.seifoo.doctor.app-packaged_res-39 C:\Users\makan\OneDrive\Desktop\Grad Projects\Skin Detecor\Derma App\Doctor\build\image_picker_android\intermediates\packaged_res\debug
+doctorapp.seifoo.doctor.app-packaged_res-40 C:\Users\makan\OneDrive\Desktop\Grad Projects\Skin Detecor\Derma App\Doctor\build\shared_preferences_android\intermediates\packaged_res\debug

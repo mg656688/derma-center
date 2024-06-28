@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "doctorapp.seifoo.doctor.app-merged_res-30:/drawable-hdpi_splash.png.flat",
+        "source": "doctorapp.seifoo.doctor.app-main-24:/drawable-hdpi/splash.png"
+    },
+    {
+        "merged": "doctorapp.seifoo.doctor.app-merged_res-30:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "doctorapp.seifoo.doctor.app-main-24:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "doctorapp.seifoo.doctor.app-merged_res-30:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "doctorapp.seifoo.doctor.app-main-24:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "doctorapp.seifoo.doctor.app-merged_res-30:/drawable-v21_launch_background.xml.flat",
+        "source": "doctorapp.seifoo.doctor.app-main-24:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "doctorapp.seifoo.doctor.app-merged_res-30:/drawable-xxxhdpi_splash.png.flat",
+        "source": "doctorapp.seifoo.doctor.app-main-24:/drawable-xxxhdpi/splash.png"
+    },
+    {
+        "merged": "doctorapp.seifoo.doctor.app-merged_res-30:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "doctorapp.seifoo.doctor.app-main-24:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "doctorapp.seifoo.doctor.app-merged_res-30:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "doctorapp.seifoo.doctor.app-main-24:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "doctorapp.seifoo.doctor.app-merged_res-30:/drawable-xhdpi_splash.png.flat",
+        "source": "doctorapp.seifoo.doctor.app-main-24:/drawable-xhdpi/splash.png"
+    },
+    {
+        "merged": "doctorapp.seifoo.doctor.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "doctorapp.seifoo.doctor.app-main-24:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "doctorapp.seifoo.doctor.app-merged_res-30:/drawable-v21_background.png.flat",
+        "source": "doctorapp.seifoo.doctor.app-main-24:/drawable-v21/background.png"
+    },
+    {
+        "merged": "doctorapp.seifoo.doctor.app-merged_res-30:/drawable-mdpi_splash.png.flat",
+        "source": "doctorapp.seifoo.doctor.app-main-24:/drawable-mdpi/splash.png"
+    },
+    {
+        "merged": "doctorapp.seifoo.doctor.app-merged_res-30:/drawable-xxhdpi_splash.png.flat",
+        "source": "doctorapp.seifoo.doctor.app-main-24:/drawable-xxhdpi/splash.png"
+    }
+]
